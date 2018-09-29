@@ -18,7 +18,7 @@ make
 # Built with
 [Qt](https://www.qt.io)
 
-# Acknowledgments
+# Implementation Details
 - The default mode is decimal, and the selected mode has an orange background. Changing mode resets the calculator.
 - I assumed that precedence order: multiplication = division > addition = subtraction
 - For the operators that have the same precedence, firstly I do the leftmost operation.
